@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "990806061056",
+    "firebase_url": "https://smart-home-automation-sy-36f2b-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-automation-sy-36f2b",
+    "storage_bucket": "smart-home-automation-sy-36f2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990806061056:android:f9c035ba506ee20f51e8e5",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRb_6LP8DEm62I7A5nQwoJnEmUaKsgB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990806061056:android:6a207696937b998151e8e5",
+        "android_client_info": {
+          "package_name": "com.example.smarthomeautomationsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRb_6LP8DEm62I7A5nQwoJnEmUaKsgB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

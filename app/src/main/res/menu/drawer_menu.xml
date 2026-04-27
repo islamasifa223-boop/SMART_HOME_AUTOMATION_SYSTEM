@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_light"
+        android:title="Light" />
+
+    <item
+        android:id="@+id/menu_fan"
+        android:title="Fan" />
+
+    <item
+        android:id="@+id/menu_door"
+        android:title="Door" />
+
+    <item
+        android:id="@+id/menu_temp"
+        android:title="Temperature" />
+
+    <item
+        android:id="@+id/menu_gas"
+        android:title="Gas Status" />
+
+    <item
+        android:id="@+id/menu_smoke"
+        android:title="Smoke Status" />
+
+</menu>
